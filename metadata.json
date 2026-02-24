@@ -1,0 +1,7 @@
+{
+  "name": "NEXUS Compare",
+  "description": "A premium luxury fashion comparison platform for finding the best deals across major retail platforms like Myntra, Ajio, and Flipkart.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
